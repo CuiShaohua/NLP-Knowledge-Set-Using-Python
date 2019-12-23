@@ -1,0 +1,6 @@
+##课程内容
+tensorflow图计算
+pytorch和keras等神经网络的原理
+
+#代码
+https://github.com/Computing-Intelligence/jupyters_and_slides/blob/master/2019-summer/lesson-10-build-neural-networks-from-scratch.ipynb
